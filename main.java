@@ -95,7 +95,7 @@ class login {
         showPassword.addActionListener(x);
 	}
 }
-public class gui {
+public class main {
 	public static void main(String[] args) throws SQLException {
 		new login();
 	}
